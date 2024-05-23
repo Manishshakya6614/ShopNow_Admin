@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "198149833797",
+    "project_id": "shopnow-40e1e",
+    "storage_bucket": "shopnow-40e1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198149833797:android:d0cb807b77fd888dc84f2c",
+        "android_client_info": {
+          "package_name": "com.manish.shopnow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4JceV4wnmhAFO9lFgAO3hmJ-GBd6qccU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198149833797:android:e934e6ce7bde22f7c84f2c",
+        "android_client_info": {
+          "package_name": "com.manish.shopnowadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4JceV4wnmhAFO9lFgAO3hmJ-GBd6qccU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
